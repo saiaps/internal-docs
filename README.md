@@ -1,2 +1,3 @@
-# internal-docs
-I want a place to put a wiki
+# Our Internal Data
+
+Check out the [wiki](https://github.com/saiaps/internal-docs/wiki/SAioPS-Wiki)
